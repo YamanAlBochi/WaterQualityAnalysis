@@ -1,5 +1,5 @@
 # WaterQualityAnalysis
- I analyze the quality of water to classify safe and unsafe water for drinking with Python..........
+ I analyze the quality of water to classify safe and unsafe water for drinking with Python.........
 
 
 Access to safe drinking water is one of the essential needs of all human beings. From a legal point of view, access to drinking water is one of the fundamental human rights. Many factors affect water quality, it is also one of the major research areas in machine learning.
